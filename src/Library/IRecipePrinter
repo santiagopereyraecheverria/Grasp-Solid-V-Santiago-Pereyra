@@ -1,0 +1,4 @@
+public interface IRecipePrinter
+{
+    void PrintRecipe(IRecipePrintData printData);
+}
